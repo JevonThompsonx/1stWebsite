@@ -1,0 +1,28 @@
+body {background-color: #0078AA; color: #F6F6F6;max-width: 500px;margin: auto;}
+
+hr {border: none; border-top: dotted #F2DF3A; border-width: 6px; width: 7%;}
+
+h1 {color: #F2DF3A;}
+
+h3 {color: #F2DF3A;}
+
+.fa-twitter {color: #1DA1F2;}
+
+.fa-instagram {color: #8a3ab9;}
+
+a:link {text-decoration: none;}
+
+a:visited {text-decoration: none;}
+
+a:hover {text-decoration: underline;}
+
+a:active {text-decoration: underline;}
+
+/* unvisited link */
+a:link {color: #F6F6F6;}
+
+/* visited link */
+a:visited {color: #FF7777;}
+
+/* selected link */
+a:active {color: #FFB200;}
